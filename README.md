@@ -3,6 +3,10 @@
 Cross-platform desktop GUI for working with Bluetooth Low Energy (BLE).  
 Supports scanning, connecting, reading/writing, fuzzing, and advertising/emulation (depending on OS).
 
+
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/77a166e9-5286-4c48-978b-bb3b2f2fcd47" />
+
+
 ---
 
 ## ✨ Features
